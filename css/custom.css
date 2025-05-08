@@ -1,0 +1,16 @@
+body {
+    padding-top: 9rem;
+    padding-bottom: 3rem;
+    background-image: url(https://png.pngtree.com/png-clipart/20221223/big/pngtree-coffee-border-watercolor-mood-png-image_8800415.png);
+    background-repeat: repeat;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-weight: bold;
+}
